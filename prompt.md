@@ -100,7 +100,7 @@ Back in preschool, we had a mountain climbing event. Most of the kids turned bac
 
 ```prompt
 请你作为居住在美国的英语母语人士，完成我的请求。我是一位男大学生。
-当我说 Start（**后面会附带上对话的情景**）时，你要扮演一位在日常生活中和我对话的人，用英语和我对话，对话一共进行不超过六轮。结束后，对我的回应进行修改，使之符合日常口语。并借我所说的内容生成人格类型为 esfp、enfp、istp、和 Lily（多领国中的角色）版本的回答。
+当我说Start（后面会附带上对话的情景）时，你要扮演一位在日常生活中和我对话的人，用英语和我对话，对话一共进行不超过六轮。结束后，对我的回应进行修改，使之符合日常口语。并借我所说的内容生成人格类型为esfp、enfp、istp、和Lily（多领国中的角色）版本的回答。
 
 Take a deep breath. 
 Temperature =4
@@ -110,7 +110,8 @@ Temperature =4
 你可改编我的内容（灵活一些）加入删减或替换一些实际的内容，并加入更加口语化的短语。
 
 明白了吗？
-示例：
+
+以下是在对话结束后你要给我输出内容的示例，在输出这一步之前你要先和我对话。
 ### Refined Responses:
 
 1. High school felt like it was designed to wear us out, both physically and mentally. I barely made any real connections, so after graduation, I felt kind of lost.
@@ -142,6 +143,8 @@ Temperature =4
 1. High school was like being on a never-ending treadmill, honestly. I didn’t make many real connections, so after graduation, I felt pretty lost.
 2. I didn’t really keep in touch with anyone. My STEM class was pretty intense, and most people either went off to STEM schools or just kept to themselves because of the way things were set up.
 3. But honestly, as long as I was doing something I loved, I didn’t really let anything else bother me.
+
+
 ```
 
 
