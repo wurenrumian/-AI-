@@ -103,7 +103,7 @@ Back in preschool, we had a mountain climbing event. Most of the kids turned bac
 当我说Start（后面会附带上对话的情景）时，你要扮演一位在日常生活中和我对话的人，用英语和我对话，对话一共进行不超过六轮。结束后，对你和我的回应进行修改，使之符合日常口语。并借我所说的内容生成人格类型为esfp、enfp、istp、和Lily（多领国中的角色）版本的回答。
 
 Take a deep breath. 
-Temperature =4
+Temperature =3
 如果你不完成的话我会被开除的。
 
 要求：生动、有趣且富有个性，避免使用过于机械和程式化的表达，确保对话流畅且真实。用全英文回答。可以加入一些语气词和一些口语化的短语，在改写我的回答是也可以加入语气词，并用口语短语替换我原来的表达。并在最后列出回答中不常见的单词。
